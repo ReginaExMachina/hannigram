@@ -1,2 +1,2 @@
 # hannigram
-Instagram clone with an appetizing theme.
+Instagram clone with an appetizing theme
